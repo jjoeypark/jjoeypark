@@ -1,9 +1,8 @@
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=A9CBD7&section=footer&height=130&text=Eunyeong(Joey)%20Park&fontSize=57&animation=twinkling&fontAlignY=45&fontColor=&desc=Boston%20University%20CS%20Stats&descSize=17.5&descAlignY=72&descAlign=69)
-
 <h3 align="center" dir="auto"> ☁️ About Myself ☁️ </h3>
 
-Hi! I'm Joey - Senior at Boston University majoring Computer Science and Statistics. I'm interested in **data analytics, recommendation system, NLP, and growth hacking**. For me, it is really exciting to **take a different types of data and help turn into meaningful answers** and this lead me to data analytics field! 
-
+Hi, I'm Joey - Senior at Boston University majoring Computer Science and Statistics. I'm interested in **data analytics, recommendation system, NLP, and growth hacking**. For me, it is really exciting to **take a different types of data and help turn into meaningful answers** and this lead me to data analytics field! 
+<br />
 
 
 <h3 align="center" dir="auto"> 🌱 Languages and Skills 🌱 </h3>
@@ -18,6 +17,7 @@ Hi! I'm Joey - Senior at Boston University majoring Computer Science and Statist
   "https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/> <img src=
   "https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>   
  </div>
+ <br />
 
 <h3 align="center" dir="auto"> 💬 Social Media 💬 </h3>
 <div align="center">
