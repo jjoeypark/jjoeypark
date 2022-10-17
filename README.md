@@ -2,7 +2,7 @@
 <h3 align="center" dir="auto"> ☁️ About Myself ☁️ </h3>
 
 Hi, I'm Joey - Senior at Boston University majoring Computer Science and Statistics. I'm interested in **data analytics, recommendation system, NLP, and growth hacking**. For me, it is really exciting to **take a different types of data and help turn into meaningful answers** and this lead me to data analytics field! 
-<br />
+<br/>
 
 
 <h3 align="center" dir="auto"> 🌱 Languages and Skills 🌱 </h3>
@@ -17,11 +17,12 @@ Hi, I'm Joey - Senior at Boston University majoring Computer Science and Statist
   "https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/> <img src=
   "https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>   
  </div>
- <br />
+ <br/>
 
 <h3 align="center" dir="auto"> 💬 Social Media 💬 </h3>
 <div align="center">
 <a href="https://www.instagram.com/tulipeyeong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunyeong-park-57b867206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=flat-square&logo=LinkedIN&logoColor=white"/></a>
 </div>
+
 
