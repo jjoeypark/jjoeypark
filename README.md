@@ -21,7 +21,7 @@ Hi, I'm Joey - Senior at Boston University majoring Computer Science and Statist
 
 <h3 align="center" dir="auto"> 💬 Social Media 💬 </h3>
 <div align="center">
-<a href="https://www.instagram.com/tulipeyeong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/tulipeyeong/" target="_blank"><img src="https://img.shields.io/badge/nstagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunyeong-park-57b867206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=flat-square&logo=LinkedIN&logoColor=white"/></a>
 </div>
 
