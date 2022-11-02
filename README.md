@@ -10,6 +10,8 @@
 <br/>
 **_마구 떠오르는 아이디어를 다른 사람들과 자유롭게 말하고, 무엇이 옳은지 그른지가 아닌 어떤 것이 더 나은 방향일지, 문제점은 무엇일지, 그 문제점을 어떻게 해결하는 것이 좋을지 끊임없는 질문과 답변을 통해 가치 있는 이야기를 나눌 수 있는 환경, 또 이러한 아이디어들을 바탕으로 도전을 할 수 있게 아낌없이 지지해주는 환경, 유동적이고 다이내믹한 환경을 좋아합니다_**
 
+한국어 이력서 보기 👉🏻 https://www.notion.so/b808a6efbc18436cb3bc4cd692068906
+
 <h3 align="center" dir="auto"> 🌱 Languages and Skills 🌱 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src=
