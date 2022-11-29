@@ -4,7 +4,7 @@
 &emsp;Hi, I'm Joey - Senior at Boston University majoring Computer Science and Statistics. I'm interested in **data analytics, recommendation system, NLP, and growth hacking**. I enjoy **taking a different types of data and turning into meaningful answers** and this led me to data analytics field! 
 <br/>
 
-&emsp;안녕하세요! Boston University에 다니는 박은영입니다 :) 고등학생 때부터 쭉 콘텐츠 마케터를 꿈꿨지만 파이썬을 접한 후 소프트웨어 언어에 매료되어 Strategic Communications에서 Computer Science & Statistics로 전과하고 Java, C언어, R등 다양한 언어를 공부했습니다. 이후 데이터 분석 수업을 들으며 raw 데이터를 가공하고, 분석하고, 활용하는 일련의 과정에 흥미를 느껴 데이터 분석가를 꿈꾸고 있습니다. 현재 GBH 뉴스와 함께 technical teammate로서 여러 데이터 셋을 가공하고 분석하여 신뢰성있는 기사 작성을 위해 유의미한 데이터를 제공하는 프로젝트를 맡고 있습니다. 
+&emsp;안녕하세요! Boston University에 다니는 박은영입니다 :) 고등학생 때부터 쭉 콘텐츠 마케터를 꿈꿨지만 파이썬을 접한 후 소프트웨어 언어에 매료되어 Strategic Communications에서 Computer Science & Statistics로 전과하고 Java, C언어, R등 다양한 언어를 공부했습니다. 이후 데이터 분석 수업을 들으며 raw 데이터를 가공하고, 분석하고, 활용하는 일련의 과정에 흥미를 느껴 데이터 분석가를 꿈꾸고 있습니다. 현재 GBH 뉴스와 함께 technical teammate로서 여러 데이터 셋을 가공하고 분석하여 신뢰성있는 기사 작성을 위해 유의미한 데이터를 제공하는 프로젝트를 진행 중 입니다.  
 <br/>
 <br/>
 <br/>
